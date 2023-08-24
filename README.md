@@ -1,1 +1,1 @@
-<!-- The full course of the Javascript is here -->
+The full course of the Javascript is here
